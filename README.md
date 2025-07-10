@@ -1,12 +1,86 @@
-# React + Vite
+mov-ie
+A responsive web application built with React and Vite that allows users to browse, search, and discover movies. This project demonstrates my front-end development skills and is part of my portfolio for the Amazon Front-End Engineer Internship.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Table of Contents
+Overview
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
 
-## Expanding the ESLint configuration
+Getting Started
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Usage
+
+Screenshots
+
+Learnings
+
+Future Improvements
+
+Author
+
+
+Overview
+mov-ie is a movie discovery web app that fetches data from a public movie API and displays it in a user-friendly interface. The project highlights my proficiency in React, component-based UI, and modern web development tools.
+
+Features
+Search for movies by title
+
+View popular and trending movies
+
+Responsive design for mobile and desktop
+
+Clean and reusable React components
+
+Fast development and hot reloading with Vite
+
+Tech Stack
+React
+
+Vite
+
+JavaScript (ES6+)
+
+HTML5 & CSS3
+
+Getting Started
+Prerequisites
+Node.js (v16+ recommended)
+
+npm
+
+
+Usage
+Enter a movie title in the search bar to find movies.
+
+Browse trending and popular movies on the homepage.
+
+Screenshots
+(Add screenshots or GIFs of your app here)
+
+Learnings
+Improved my understanding of React hooks and state management.
+
+Built reusable and modular components.
+
+Practiced responsive web design and API integration.
+
+Gained experience with Vite for fast front-end development.
+
+Future Improvements
+Add user authentication and favorites feature.
+
+Implement detailed movie pages.
+
+Enhance accessibility and add unit tests.
+
+Author
+Name: Naveen Siripothu
+
+Year: 3rd Year
+
+Branch: Information Technology (IT)
+
+Institution: IIIT Bhopal
+
