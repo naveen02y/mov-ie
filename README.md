@@ -1,5 +1,5 @@
 mov-ie
-A responsive web application built with React and Vite that allows users to browse, search, and discover movies. This project demonstrates my front-end development skills and is part of my portfolio for the Amazon Front-End Engineer Internship.
+A responsive web application built with React and Vite that allows users to browse, search, and discover movies. This project demonstrates my front-end development skills .
 
 Table of Contents
 Overview
